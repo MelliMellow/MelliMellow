@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MelliMellow
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Java, System Administration under Linux (ArchLinux)
+- 🌱 I’m currently learning Python, System Administration
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... Send me a message at alcoolicat@protonmail.com
 
